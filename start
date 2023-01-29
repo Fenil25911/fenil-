@@ -1,1 +1,6 @@
-dvfv
+on;
+  push
+    branches;
+      -main
+      
+      jobs
